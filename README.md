@@ -1,4 +1,6 @@
-# Wild-Animal-Image-ClassifierThe object oif this blog is to classify images from a multiple class images.
+# Wild-Animal-Image-Classifier
+
+The object oif this blog is to classify images from a multiple class images.
 
 Image Classification :
 Image classification refers to the task of extracting information classes from a multiband raster image. The task of classifying and labeling groups of pixels or vectors inside an image based on certain rules is known as image classification. A model is trained to identify various image classes. A CNN model, for example, maybe trained to detect images of multiple different types of animals: tiger, cheetah, lion, wolf etc.
@@ -136,12 +138,9 @@ Created multiple layers to check the performance, for every model i have increas
 Change the hyperparameters- i.e neurons per layer
 experimented on epoch values for 3 models 5,5, 28.
 Used diffferent activation functions like relu, LeakyRelu, softmax.
-SourceCode:
 
-multipleimageclassifier
-.ipynb
-Download IPYNB • 2.54MB
-Project Demo:
+
+
 https://www.youtube.com/watch?v=0dI8_kP-xSM&ab_channel=NareshKandhyanam 
 
 References:
